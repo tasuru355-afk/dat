@@ -1,0 +1,8 @@
+{
+  "name": "Contra Mario: Ôn Tập Kiến Thức",
+  "description": "Trò chơi hành động platformer kết hợp Contra và Super Mario Bros với hệ thống câu hỏi ôn tập kiến thức và bộ quản lý CRUD tùy chỉnh linh hoạt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
